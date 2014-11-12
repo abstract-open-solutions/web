@@ -21,7 +21,7 @@
 {
     'name': 'Web Wide Sheet',
     'version': '1.0',
-    'category': 'Hiiden',
+    'category': 'Hidden',
     'summary': '100% wide sheets',
     'description': """
     This module lets the sheets to be 100% wide.
